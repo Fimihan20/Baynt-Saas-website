@@ -931,6 +931,9 @@ hr{
         margin-left: auto;
         margin-right: 10px;
     }
+    .header-container button{
+        margin-top: -16%;
+    }
 
     .navbar {
         width: 100%;
