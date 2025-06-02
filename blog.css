@@ -197,9 +197,7 @@ margin-top: 40px;
     margin-left:96px;
     margin-top: 40px;
     display:block;
-    border:2px solid whitesmoke;
     border-radius: 20px;
-    box-shadow:0 9px 600px rgba(0,0,0,0.3);
 }
 .over-lay{
     position:absolute;
@@ -1000,6 +998,9 @@ hr{
         display: block;
         margin-left: auto;
         margin-right: 10px;
+    }
+    .header-container button{
+        margin-top: -16%;
     }
 
     .navbar {
