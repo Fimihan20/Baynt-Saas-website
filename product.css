@@ -72,7 +72,7 @@ button{
     width:120px;
     padding:5px;
     background-color: #FFFFFf;
-    border: solid 1px whitesmoke;
+    border:none;
 }
 button:hover{
     background-color: brown;
@@ -166,13 +166,15 @@ b{
 }
 .icon-divs{
     width:90%;
+    height:80px;
     margin: auto;
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
 }
 .icon-divs img{
-    width: 110px;
+    width:110px;
+    height:50px;
 }
 .secound-container{
     width: 100%;
